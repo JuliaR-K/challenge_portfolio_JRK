@@ -19,5 +19,10 @@ W wersji po polsku występują przyciski po angielsku np. submit, clear.
 ## *Subtask 2*
 
 ## *Subtask 3*
-Przypadki testowe piszemy, żeby uporządkować pracę, 
+Przypadki testowe piszemy, żeby uporządkować i zaplanować to, co chcemy przetestować. 
+Przypadki testowe mogą być źródłem informacji o oprogramowaniu.  
+
+## *Subtask*
+
+
 # challenge_portfolio_JRK
