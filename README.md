@@ -21,6 +21,7 @@ https://docs.google.com/spreadsheets/d/11N6KIfQtU_Y2j-Wq7jPyHXGv1Y-ZqHuz/edit?us
 ## *Subtask 3*
 Przypadki testowe piszemy, żeby uporządkować i zaplanować to, co chcemy przetestować. 
 Przypadki testowe mogą być źródłem informacji o oprogramowaniu.  
-
+## *Subtask 4*
+https://docs.google.com/spreadsheets/d/1cr_ioh8iUvYWmNYQo77L6eGbzr386clr/edit?usp=sharing&ouid=100748264363169360641&rtpof=true&sd=true
 
 # challenge_portfolio_JRK
