@@ -24,4 +24,10 @@ Przypadki testowe mogą być źródłem informacji o oprogramowaniu.
 ## *Subtask 4*
 https://docs.google.com/spreadsheets/d/1cr_ioh8iUvYWmNYQo77L6eGbzr386clr/edit?usp=sharing&ouid=100748264363169360641&rtpof=true&sd=true
 
+# **TASK 3**
+## *Subtask 2*
+https://drive.google.com/file/d/1Z0HsTUWQV1RnylwBaahxZp68JU2UqGcF/view?usp=sharing
+## *Subtask 3*
+https://drive.google.com/file/d/1E9-NAJIQ7IBDhv-wwf8SkJRPWuPXFdcf/view?usp=sharing
+
 # challenge_portfolio_JRK
