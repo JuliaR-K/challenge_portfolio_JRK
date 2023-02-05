@@ -30,4 +30,14 @@ https://drive.google.com/file/d/1Z0HsTUWQV1RnylwBaahxZp68JU2UqGcF/view?usp=shari
 ## *Subtask 3*
 https://drive.google.com/file/d/1E9-NAJIQ7IBDhv-wwf8SkJRPWuPXFdcf/view?usp=sharing
 
+# **TASK 4**
+## *Subtask 2*
+
+## *Subtask 3*
+Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
+Kto ma być użytkownikiem końcowym aplikacji?
+Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. Poczytaj na ten temat w internecie- co to znaczy, że aplikacja jest przyjazna dla użytkownika)
+Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? (Żeby nie było: nie jest to aplikacja przy której pracuję, takie pytania pojawiają się na rozmowach rekrutacyjnych dlatego dobrze jest to przećwiczyć :D )
+Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+
 # challenge_portfolio_JRK
