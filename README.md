@@ -34,10 +34,12 @@ https://drive.google.com/file/d/1E9-NAJIQ7IBDhv-wwf8SkJRPWuPXFdcf/view?usp=shari
 ## *Subtask 2*
 
 ## *Subtask 3*
-Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
-Kto ma być użytkownikiem końcowym aplikacji?
-Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. Poczytaj na ten temat w internecie- co to znaczy, że aplikacja jest przyjazna dla użytkownika)
-Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? (Żeby nie było: nie jest to aplikacja przy której pracuję, takie pytania pojawiają się na rozmowach rekrutacyjnych dlatego dobrze jest to przećwiczyć :D )
-Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+Aplikacja olx służy do zamieszczania ogłoszeń sprzedaży rzeczy i usług, a także ogłoszeń o pracę oraz do kupowania rzeczy i usług.
+Użytkownikiem końcowym aplikacji jest kupujący produkt lub sprzedający i umieszczający ogłoszenie.
+Według mnie aplikacja jest przyjazna dla użytkownika, działa sprawnie, zamieszczanie ogłoszeń i kupowanie jest intuicyjne.
+Można by dodać opcję wysyłania powiadomień o interesujących nas ogłoszeniach w określonej okolicy np. ogłoszeniach  pracę.
+
+Testowanie aplikacji internetowej to testowanie strony internetowej uruchamianej z wykorzystaniej przeglądarki internetowej, a testowanie aplikacji natywnej to testowanie aplikacji moblinej stworzonej na dany system mbliny np. iOS, Android. 
+Do testowanie aplikacji natywnej jest potrzebna duża ilość urządzeń lub emulatorów na których należy przetestować aplikację, a do testowania aplikacji internetowej potrzebne są różne przeglądarki. 
 
 # challenge_portfolio_JRK
