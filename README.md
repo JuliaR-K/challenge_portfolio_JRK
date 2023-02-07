@@ -39,7 +39,7 @@ Użytkownikiem końcowym aplikacji jest kupujący produkt lub sprzedający i umi
 Według mnie aplikacja jest przyjazna dla użytkownika, działa sprawnie, zamieszczanie ogłoszeń i kupowanie jest intuicyjne.
 Można by dodać opcję wysyłania powiadomień o interesujących nas ogłoszeniach w określonej okolicy np. ogłoszeniach o pracę.
 
-Testowanie aplikacji internetowej to testowanie strony internetowej uruchamianej z wykorzystaniej przeglądarki internetowej, a testowanie aplikacji natywnej to testowanie aplikacji moblinej stworzonej na dany system mbliny np. iOS, Android. 
+Testowanie aplikacji internetowej to testowanie strony internetowej uruchamianej z wykorzystaniej przeglądarki internetowej, a testowanie aplikacji natywnej to testowanie aplikacji moblinej stworzonej na dany system mobliny np. iOS, Android. 
 Do testowanie aplikacji natywnej jest potrzebna duża ilość urządzeń lub emulatorów na których należy przetestować aplikację, a do testowania aplikacji internetowej potrzebne są różne przeglądarki. 
 ## *Subtask 4*
 https://dare-it-2023-man-test.atlassian.net/jira/software/projects/CPP2/boards/1
