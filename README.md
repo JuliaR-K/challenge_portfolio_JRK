@@ -32,7 +32,7 @@ https://drive.google.com/file/d/1E9-NAJIQ7IBDhv-wwf8SkJRPWuPXFdcf/view?usp=shari
 
 # **TASK 4**
 ## *Subtask 2*
-
+https://drive.google.com/file/d/18AJwvSqexeTWcPJyaWWqEmOxhTPxxgJ1/view?usp=share_link
 ## *Subtask 3*
 Aplikacja olx służy do zamieszczania ogłoszeń sprzedaży rzeczy i usług, a także ogłoszeń o pracę oraz do kupowania rzeczy i usług.
 Użytkownikiem końcowym aplikacji jest kupujący produkt lub sprzedający i umieszczający ogłoszenie.
@@ -41,5 +41,7 @@ Można by dodać opcję wysyłania powiadomień o interesujących nas ogłoszeni
 
 Testowanie aplikacji internetowej to testowanie strony internetowej uruchamianej z wykorzystaniej przeglądarki internetowej, a testowanie aplikacji natywnej to testowanie aplikacji moblinej stworzonej na dany system mbliny np. iOS, Android. 
 Do testowanie aplikacji natywnej jest potrzebna duża ilość urządzeń lub emulatorów na których należy przetestować aplikację, a do testowania aplikacji internetowej potrzebne są różne przeglądarki. 
+## *Subtask 4*
+https://dare-it-2023-man-test.atlassian.net/jira/software/projects/CPP2/boards/1
 
 # challenge_portfolio_JRK
