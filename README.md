@@ -37,7 +37,7 @@ https://drive.google.com/file/d/18AJwvSqexeTWcPJyaWWqEmOxhTPxxgJ1/view?usp=share
 Aplikacja olx służy do zamieszczania ogłoszeń sprzedaży rzeczy i usług, a także ogłoszeń o pracę oraz do kupowania rzeczy i usług.
 Użytkownikiem końcowym aplikacji jest kupujący produkt lub sprzedający i umieszczający ogłoszenie.
 Według mnie aplikacja jest przyjazna dla użytkownika, działa sprawnie, zamieszczanie ogłoszeń i kupowanie jest intuicyjne.
-Można by dodać opcję wysyłania powiadomień o interesujących nas ogłoszeniach w określonej okolicy np. ogłoszeniach  pracę.
+Można by dodać opcję wysyłania powiadomień o interesujących nas ogłoszeniach w określonej okolicy np. ogłoszeniach o pracę.
 
 Testowanie aplikacji internetowej to testowanie strony internetowej uruchamianej z wykorzystaniej przeglądarki internetowej, a testowanie aplikacji natywnej to testowanie aplikacji moblinej stworzonej na dany system mbliny np. iOS, Android. 
 Do testowanie aplikacji natywnej jest potrzebna duża ilość urządzeń lub emulatorów na których należy przetestować aplikację, a do testowania aplikacji internetowej potrzebne są różne przeglądarki. 
