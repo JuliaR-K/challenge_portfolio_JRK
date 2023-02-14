@@ -50,8 +50,8 @@ SELECT * FROM
 SELECT FROM
 SELECT Country FROM Customers WHERE Country = 'Poland'
 SELECT * FROM [Products] WHERE SupplierID BETWEEN 2 AND 6
-SELECT * FROM [Customers]
-ORDER BY City
+SELECT * FROM [Customers] ORDER BY City
+
 ## *Subtask 3*
 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 SELECT * FROM `actors` 
@@ -65,12 +65,20 @@ SELECT * FROM `movies` WHERE year_of_production = 2019
 SELECT * FROM `movies` WHERE year_of_production BETWEEN 1900 and 1999
 ![between](https://user-images.githubusercontent.com/122525944/218866346-47702cd3-43f3-488e-b40a-ab2d667422e3.png)
 
-5. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
-6. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
-7. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
-8. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
-9. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
-10. Wyświetl dane klienta, który nie ma podanego adresu email.
-11. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
+SELECT title, price FROM `movies` WHERE price <7
+![titleprice](https://user-images.githubusercontent.com/122525944/218867702-85168ecf-e5cc-4306-819c-e39e0db45e92.png)
+
+5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+
+
+6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
+SELECT * FROM `customers` WHERE customer_id = 2 OR customer_id = 4 OR customer_id = 6
+![customerid](https://user-images.githubusercontent.com/122525944/218871622-ff99d69a-ee41-47e5-be0c-599862a7fbc6.png)
+
+10. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
+11. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+12. Wyświetl dane klienta, który nie ma podanego adresu email.
+13. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
 
 # challenge_portfolio_JRK
