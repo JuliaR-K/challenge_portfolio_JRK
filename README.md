@@ -92,9 +92,19 @@ SELECT * FROM `customers` WHERE customer_id IN(1,3,5)
 
 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
 
+SELECT * FROM `actors`WHERE name LIKE 'An%'
+![an](https://user-images.githubusercontent.com/122525944/218873986-fadca1b6-2649-4a70-a84c-a1feb884e818.png)
 
 
-12. Wyświetl dane klienta, który nie ma podanego adresu email.
-13. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+9. Wyświetl dane klienta, który nie ma podanego adresu email.
+
+SELECT * FROM `customers` WHERE email IS null
+![null](https://user-images.githubusercontent.com/122525944/218874296-154dc783-1f11-4b02-8889-5accedf53829.png)
+
+
+14. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+
+
+
 
 # challenge_portfolio_JRK
