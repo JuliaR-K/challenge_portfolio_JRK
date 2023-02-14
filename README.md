@@ -53,5 +53,9 @@ SELECT * FROM [Products] WHERE SupplierID BETWEEN 2 AND 6
 SELECT * FROM [Customers]
 ORDER BY City
 ## *Subtask 3*
+Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+SELECT * FROM `actors` 
+ORDER BY surname
+![aktorzy](https://user-images.githubusercontent.com/122525944/218711481-ea0397db-96c1-49da-b233-78e43456a803.png)
 
 # challenge_portfolio_JRK
