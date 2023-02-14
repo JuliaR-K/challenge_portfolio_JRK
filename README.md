@@ -53,9 +53,24 @@ SELECT * FROM [Products] WHERE SupplierID BETWEEN 2 AND 6
 SELECT * FROM [Customers]
 ORDER BY City
 ## *Subtask 3*
-Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 SELECT * FROM `actors` 
 ORDER BY surname
 ![aktorzy](https://user-images.githubusercontent.com/122525944/218711481-ea0397db-96c1-49da-b233-78e43456a803.png)
+2. Wyświetl film, który powstał w 2019 roku.
+SELECT * FROM `movies` WHERE year_of_production = 2019
+![film2019](https://user-images.githubusercontent.com/122525944/218865697-68454b0a-0096-45b2-bcf7-55bb8f9502cd.png)
+
+3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem. 
+SELECT * FROM `movies` WHERE year_of_production BETWEEN 1900 and 1999
+![between](https://user-images.githubusercontent.com/122525944/218866346-47702cd3-43f3-488e-b40a-ab2d667422e3.png)
+
+5. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
+6. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+7. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
+8. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
+9. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+10. Wyświetl dane klienta, który nie ma podanego adresu email.
+11. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
 
 # challenge_portfolio_JRK
