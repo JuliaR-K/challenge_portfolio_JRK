@@ -43,5 +43,15 @@ Testowanie aplikacji internetowej to testowanie strony internetowej uruchamianej
 Do testowanie aplikacji natywnej jest potrzebna duża ilość urządzeń lub emulatorów na których należy przetestować aplikację, a do testowania aplikacji internetowej potrzebne są różne przeglądarki. 
 ## *Subtask 4*
 https://dare-it-2023-man-test.atlassian.net/jira/software/projects/CPP2/boards/1
+# **TASK 5**
+## *Subtask 1*
+Zapytania/operatory, które przećwiczyłam:
+SELECT * FROM 
+SELECT FROM
+SELECT Country FROM Customers WHERE Country = 'Poland'
+SELECT * FROM [Products] WHERE SupplierID BETWEEN 2 AND 6
+SELECT * FROM [Customers]
+ORDER BY City
+## *Subtask 3*
 
 # challenge_portfolio_JRK
