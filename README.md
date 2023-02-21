@@ -147,5 +147,15 @@ UPDATE customers SET pseudonym = concat (LEFT(name, 2), RIGHT(surname, 1))
 ![concat](https://user-images.githubusercontent.com/122525944/220468390-a06cb31a-366f-4b10-a771-3c92176efd29.png)
 
 
+16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
+
+SELECT DISTINCT title FROM `sale` INNER JOIN movies ON sale.movie_id=movies.movie_id
+
+![distinct](https://user-images.githubusercontent.com/122525944/220468993-2aeea8fd-d254-432e-811a-5c2a69ef976b.png)
+
+SELECT name FROM customers UNION SELECT name FROM actors ORDER BY name ASC
+
+![asc](https://user-images.githubusercontent.com/122525944/220469920-bced4068-0870-494d-aeb2-e23691c3eaac.png)
+
 
 # challenge_portfolio_JRK
