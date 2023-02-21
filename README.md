@@ -172,6 +172,12 @@ SELECT name, surname, title FROM cast INNER JOIN actors ON cast.actor_id=actors.
 
 ![id4](https://user-images.githubusercontent.com/122525944/220471931-e98c76cc-d2ce-4a9c-88ec-939c2a2ae56a.png)
 
+20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
+
+INSERT INTO customers (customer_id, email, name,pseudonym, surname) VALUES (7, 'honia@mail.com', 'Honia', 'Hoa', 'Stuczka-Kucharska')
+
+![honia](https://user-images.githubusercontent.com/122525944/220472830-faed9532-e144-4e97-9e9c-e09ec8b2af06.png)
+
 
 
 # challenge_portfolio_JRK
