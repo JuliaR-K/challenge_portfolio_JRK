@@ -117,6 +117,12 @@ SELECT * FROM `movies` WHERE price > 9 AND movie_id BETWEEN 2 AND 8
 
 ![filmbetween](https://user-images.githubusercontent.com/122525944/218875082-e2535314-d2ce-4157-a217-6a718a8b7a76.png)
 
+# **TASK 6**
+## *Subtask 1*
+UPDATE customers SET surname='Muler' WHERE name='Ania';
+
+![miler](https://user-images.githubusercontent.com/122525944/220317246-56529db9-c4c1-4a03-90e3-3d0a53272486.png)
+
 
 
 # challenge_portfolio_JRK
