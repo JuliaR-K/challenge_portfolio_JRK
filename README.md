@@ -132,7 +132,12 @@ SELECT * FROM `sale` INNER JOIN customers ON sale.customer_id=customers.customer
 ![join](https://user-images.githubusercontent.com/122525944/220463403-9daff4c3-709e-48f3-a29b-a2b1d558d840.png)
 
 13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
-//TODO
+
+UPDATE customers SET email = 'pati@mail.com' WHERE email IS NULL
+
+![email](https://user-images.githubusercontent.com/122525944/220473445-32f612c1-3b1a-4a40-a952-b10ba271652d.png)
+
+
 14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).
 
 SELECT name, surname, title FROM `sale` INNER JOIN customers ON sale.customer_id=customers.customer_id INNER JOIN movies ON sale.movie_id=movies.movie_id;
