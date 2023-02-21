@@ -127,6 +127,9 @@ UPDATE customers SET surname='Muler' WHERE name='Ania';
 
 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
 
+SELECT * FROM `sale` INNER JOIN customers ON sale.customer_id=customers.customer_id WHERE movie_id = 4
+
+![join](https://user-images.githubusercontent.com/122525944/220463403-9daff4c3-709e-48f3-a29b-a2b1d558d840.png)
 
 
 # challenge_portfolio_JRK
