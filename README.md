@@ -132,12 +132,20 @@ SELECT * FROM `sale` INNER JOIN customers ON sale.customer_id=customers.customer
 ![join](https://user-images.githubusercontent.com/122525944/220463403-9daff4c3-709e-48f3-a29b-a2b1d558d840.png)
 
 13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
-
+//TODO
 14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).
 
 SELECT name, surname, title FROM `sale` INNER JOIN customers ON sale.customer_id=customers.customer_id INNER JOIN movies ON sale.movie_id=movies.movie_id;
 
 ![movie](https://user-images.githubusercontent.com/122525944/220464693-31486fc3-c1bd-470d-940e-3e8a0bc174a0.png)
+
+15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag
+
+ALTER TABLE `customers` ADD `pseudonym` VARCHAR(200) NOT NULL 
+UPDATE customers SET pseudonym = concat (LEFT(name, 2), RIGHT(surname, 1))
+
+![concat](https://user-images.githubusercontent.com/122525944/220468390-a06cb31a-366f-4b10-a771-3c92176efd29.png)
+
 
 
 # challenge_portfolio_JRK
