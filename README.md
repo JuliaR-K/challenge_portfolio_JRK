@@ -119,9 +119,13 @@ SELECT * FROM `movies` WHERE price > 9 AND movie_id BETWEEN 2 AND 8
 
 # **TASK 6**
 ## *Subtask 1*
+
+11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
 UPDATE customers SET surname='Muler' WHERE name='Ania';
 
 ![miler](https://user-images.githubusercontent.com/122525944/220317246-56529db9-c4c1-4a03-90e3-3d0a53272486.png)
+
+12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
 
 
 
